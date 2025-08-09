@@ -50,8 +50,8 @@ SELECT 'Total Quantity', SUM(quantity) FROM gold.fact_sales
 UNION ALL
 SELECT 'Average price', AVG(price) FROM gold.fact_sales
 UNION ALL
-SELECT 'Toatal Orders', COUNT(DISTINCT order_number) FROM gold.fact_sales
+SELECT 'Toatal Nr. Orders', COUNT(DISTINCT order_number) FROM gold.fact_sales
 UNION ALL
-SELECT 'Toatal Products', COUNT(DISTINCT product_name) FROM gold.dim_products
+SELECT 'Toatal Nr. Products', COUNT(DISTINCT product_name) FROM gold.dim_products
 UNION ALL
-SELECT 'Toatal Customers', COUNT(DISTINCT customer_key) FROM gold.dim_customers
+SELECT 'Toatal Nr. Customers', COUNT(DISTINCT customer_key) FROM gold.dim_customers
