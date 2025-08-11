@@ -39,3 +39,16 @@ Ideal for quickly generating insights from relational datasets using well-struct
 
 ##  Repository Structure
 
+sql_data_analytics_project/
+│
+├── datasets/ # Sample datasets (if available)
+├── docs/ # Documentation, metadata, script descriptions
+├── scripts/ # Analytical SQL scripts
+│ ├── exploration/
+│ ├── metrics/
+│ ├── trends/
+│ ├── segmentation/
+│ └── advanced_analytics/
+├── README.md # Detailed project overview (this file)
+├── LICENSE # MIT License
+└── .gitignore # Files to ignore in Git
