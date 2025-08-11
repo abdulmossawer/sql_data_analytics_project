@@ -82,7 +82,7 @@ About Me
 Hi! I’m Abdul Mossawer, a passionate Data Engineering & Analytics enthusiast. This project reflects my approach to building structured, reusable SQL analytics workflows as part of my #100DaysOfDataAnalytics journey.
 
 Let’s connect!
-LinkedIn | GitHub
+🔗 [LinkedIn](https://linkedin.com/in/abdulmossawer) | [GitHub](https://github.com/abdulmossawer) | [X](https://x.com/AMossawerdev)
 
 License
 This project is licensed under the MIT License—feel free to reuse, adapt, and share, with attribution.
